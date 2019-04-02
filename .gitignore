@@ -1,0 +1,46 @@
+/bin/
+.classpath
+classes
+/.idea
+
+/WebContent/WEB-INF/lib/servlet-api.jar
+
+out/
+classes/
+node_modules/
+mywall/node_modules/
+
+src/spring/applicationContext.xml
+*.iml
+######################
+# Eclipse
+######################
+*.pydevproject
+.springBeans
+.project
+.metadata
+tmp/
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.factorypath
+/src/main/resources/rebel.xml
+/out/artifacts/allDreamManage/allDreamManage.war
+
+# External tool builders
+.externalToolBuilders/**
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+.DS_Store
